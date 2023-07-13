@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Augusto Nascimento 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcnoris&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcnoris&show_icons=true&theme=radical&locale=pt-br)
+
 
 ## Tecnologias que trabalho no meu dia 👔
 
